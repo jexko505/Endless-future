@@ -15,3 +15,4 @@ __pycache__/
 *.pyc
 .env
 endless
+nessy
