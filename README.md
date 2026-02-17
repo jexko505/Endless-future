@@ -14,3 +14,4 @@ python main.py
 __pycache__/
 *.pyc
 .env
+endless
